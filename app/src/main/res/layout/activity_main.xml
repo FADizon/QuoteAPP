@@ -24,7 +24,7 @@
         android:layout_width="193dp"
         android:layout_height="58dp"
         android:layout_marginTop="380dp"
-        android:text="Motovational Quotes"
+        android:text="Motivational Quotes"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
